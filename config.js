@@ -12,19 +12,19 @@ global.Owner = {
 }
 global.ext = {
 	title: 'Sabar sedang di proses',
-	body: 'NayLa-B0TZ',
+	body: 'Zaifu',
 	thum: 'https://telegra.ph/file/5859353a380d9b67be198.jpg'
 }
-global.mods = ['6283897390164'] // Want some help?
+global.mods = ['6282159532255'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.DeveloperMode = 'false' // true or false
-global.linkGC = ['https://chat.whatsapp.com/JgFOfu182li7kG6dlKcwzD']
-global.packname = 'NayLa-B0TZ'
-global.author = 'Zevano'
+global.linkGC = ['https://chat.whatsapp.com/Cyi1MzLiCAd9Rfbd2gSxqu']
+global.packname = '©Zing'
+global.author = 'Zaifu'
 global.multiplier = 36 // The higher, The harder levelup
 global.sessionName = 'nayla' // The Session name behind the .json example is nayla.json
 global.mesreport = 50
-global.botname = 'NAYLA-BOTZ'
+global.botname = 'ZINGFO'
 global.thumnail = ext.thum // It's hard to change if you don't get an error
 global.thum = ext.thum // Same as above
     global.mess = {
@@ -39,7 +39,7 @@ global.thum = ext.thum // Same as above
     botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan fitur ini',
     unreg: '── 「 NOT REGISTERED 」 ──\nSilakan Register Terlebih Dahulu Sebelum Menggunakan Bot. Cara Register Cukup Dengan Command *.daftar nama.umur*\nContoh .daftar ' + global.botname + '.16\n\nNote\nHarap Save Serial Number Mu Agar Bisa Melakukan Unreg Database Bot',
     sukses: 'Done Ya kawand',
-    wm: '© nayla',
+    wm: '© Zaifu',
     wel: 'Hai @user\n◪ Welcome in group:\n├─ @subject\n├─ Intro dulu\n├─ ❏ Nama: \n├─ ❏ Umur: \n├─ ❏ Asal kota: \n├─ ❏ Kelas: \n├─ ❏ Jenis kelamin:',
     bye: 'Selamat Tinggal @user!\nTerimakasih Telah Bergabung Di Grup\n\nKalo Balik Jangan Lupa Bawa Gorengan Buat Anggota Disini',
     promote: '「 PROMOTE - DETECTED 」\nTarget : @user\nStatus : Member -> Admin\nSELAMAT KAMU JADI ADMIN',
